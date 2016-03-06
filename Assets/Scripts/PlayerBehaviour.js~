@@ -10,7 +10,6 @@ function Start () {
 
 }
 
-// This is a comment
 function Update () {
     var x;
     var y;
